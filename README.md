@@ -1,6 +1,6 @@
 # Top AI Agents
 
-A list of top AI agents
+A list of top AI agents- 2024 Updated.
 
 ![aiagents](https://github.com/SamurAIGPT/Top-AI-Agents/assets/4326215/04319803-e236-45ed-be55-98aab73b6453)
 
